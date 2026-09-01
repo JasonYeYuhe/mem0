@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://github.com/mem0ai/mem0">
-    <img src="docs/images/banner-sm.png" width="800px" alt="Mem0 - 面向个性化 AI 的智能记忆层">
+    <img src="images/banner-sm.png" width="800px" alt="Mem0 - 面向个性化 AI 的智能记忆层">
   </a>
 </p>
 
 <h1 align="center">Mem0 — 面向个性化 AI 与智能体的核心记忆层</h1>
 
 <p align="center">
-  <a href="README.md">English</a> · <b>简体中文</b>
+  <a href="../README.md">English</a> · <b>简体中文</b>
 </p>
 
 <p align="center">
@@ -190,7 +190,7 @@ npx skills add https://github.com/mem0ai/mem0 --skill mem0-test-integration
 npx skills add https://github.com/mem0ai/mem0 --skill mem0-oss-to-platform
 ```
 
-使用 `/mem0-integrate` 在现有代码库中以测试驱动方式快速接入 Mem0，使用 `/mem0-test-integration` 进行端到端验证，或使用 `/mem0-oss-to-platform` 从开源 SDK 平滑迁移至云平台。详见 [技能目录](./skills/)。
+使用 `/mem0-integrate` 在现有代码库中以测试驱动方式快速接入 Mem0，使用 `/mem0-test-integration` 进行端到端验证，或使用 `/mem0-oss-to-platform` 从开源 SDK 平滑迁移至云平台。详见 [技能目录](../skills/)。
 
 ---
 
